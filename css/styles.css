@@ -1132,7 +1132,7 @@ display: flex; }
 
 @media (max-width: 575px) {
   .home_banner_area .banner_inner {
-    padding-top: 0 !important;
+    padding-top: 100px !important;
 
   }
 }
