@@ -108,10 +108,10 @@ button:focus {
 }
 
 .section_gap_bottom {
-  padding-bottom: 150px;
+  padding-bottom: 120px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
   .section_gap_bottom {
     padding-bottom: 220px;
   }
