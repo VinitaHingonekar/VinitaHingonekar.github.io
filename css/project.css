@@ -1,0 +1,65 @@
+body{
+    line-height: 50px;
+}
+
+.div_gap_top {
+    padding-top: 100px;
+}
+
+@media (max-width: 1199px){
+      .div_gap_top {
+        padding-top: 80px; } 
+}
+
+a{
+    color: white;   
+}
+
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+#carouselFade{
+    width: 80%;
+}
+
+p, li{
+    font-size: 1.4rem !important;
+}
+
+@media (max-width: 768px){
+    p, li {
+        font-size: 1rem !important; }
+        
+    .glass{
+        padding: 1.5em 0.8rem !important;
+    }
+
+}
+
+@media (max-width: 565px){
+    p, li {
+        font-size: 0.9rem !important; }
+        
+    .glass{
+        padding: 0;
+    }
+
+}
+
+
+.carousel { overflow: hidden; padding-bottom: 4rem; }
+.carousel-caption { top: 100%; }
+.carousel-inner { overflow: visible; }
+.carousel-control-next, .carousel-control-prev, .carousel-indicators { bottom: 4rem; }
+
+.glass{
+    padding: 5em;
+    background: rgba(255, 255, 255, 0.139);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.108);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    /* border: 1px solid rgba(255, 255, 255, 0.7); */
+}
