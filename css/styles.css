@@ -1439,10 +1439,34 @@ display: flex; }
   /* text-decoration: none; */
   text-transform: uppercase;
   font-size: 18px;
-  background-color: rgb(255, 255, 255);
-  color: #000;
+  color: #ffffff;
   padding: 20px 50px;
   display: inline-block;
   letter-spacing: 2px;
   margin: 20px;
+  border-radius: 20px;
+  font-weight: 500;
+  /* background: rgba(255, 255, 255, 0.473); */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  /* border: 1px solid rgba(255, 255, 255, 0.3); */
 }
+
+.skills-p .blue{
+  background-color: #82a3ff;
+}
+
+.skills-p .purple{
+  background-color: #8e77f7;
+}
+
+/* .skills-p p:hover{
+  color: #000;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.473);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);  
+} */
