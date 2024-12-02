@@ -1344,6 +1344,14 @@ display: flex; }
   background: url("../img/portfolio/game4.png") no-repeat left / cover;
 }
 
+.left-game5{
+  background: url("../img/portfolio/game5.jpg") no-repeat left / cover;
+}
+
+.right-game6{
+  background: url("../img/portfolio/game6.png") no-repeat left / cover;
+}
+
 .right1{
   margin-left : -100px;
   /* background: url("../img/portfolio/game1-icon.png") no-repeat center / cover; */
