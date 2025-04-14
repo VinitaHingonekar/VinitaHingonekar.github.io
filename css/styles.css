@@ -1364,6 +1364,11 @@ display: flex; }
   background: url("../img/portfolio/game9.png") no-repeat left / cover;
 }
 
+.game10{
+  background: url("../img/portfolio/game10.png") no-repeat left / cover;
+}
+
+
 .right1{
   margin-left : -100px;
   /* background: url("../img/portfolio/game1-icon.png") no-repeat center / cover; */
