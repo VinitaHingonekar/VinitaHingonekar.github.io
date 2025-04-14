@@ -1352,6 +1352,18 @@ display: flex; }
   background: url("../img/portfolio/game6.png") no-repeat left / cover;
 }
 
+.game7{
+  background: url("../img/portfolio/game7.png") no-repeat left / cover;
+}
+
+.game8{
+  background: url("../img/portfolio/game8.png") no-repeat left / cover;
+}
+
+.game9{
+  background: url("../img/portfolio/game9.png") no-repeat left / cover;
+}
+
 .right1{
   margin-left : -100px;
   /* background: url("../img/portfolio/game1-icon.png") no-repeat center / cover; */
