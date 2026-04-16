@@ -1368,6 +1368,18 @@ display: flex; }
   background: url("../img/portfolio/game10.png") no-repeat left / cover;
 }
 
+.project1{
+  background: url("../img/portfolio/project1.png") no-repeat center / cover;
+}
+
+.project2{
+  background: url("../img/portfolio/project2.png") no-repeat center / cover;
+}
+
+.project3{
+  background: url("../img/portfolio/project3.png") no-repeat left / cover;
+}
+
 
 .right1{
   margin-left : -100px;
